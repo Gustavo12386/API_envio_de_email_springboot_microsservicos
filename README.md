@@ -14,5 +14,5 @@
 ![Captura de tela em 2024-09-27 17-43-05](https://github.com/user-attachments/assets/5907a0f9-c2bc-42e1-8138-a3328ebf78ec)
 
 # Autor 
-- Gustavo Viana
+- Gustavo Calderaro
 
