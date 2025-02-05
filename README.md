@@ -1,8 +1,25 @@
 # Spring_microservicos_envio_email
 
-## Sobre o projeto
-- Esse projeto se trata de um sistema de microserviços, no qual realiza envio de email, feito com a linguagem java, framework Spring Boot e o software de mensageria RabbitMQ.
-- Esse projeto apresenta duas apis: uma chamada user, na qual recebe os dados do usuário e a mensagem do email inserido e a outra chamada email, na qual realiza o envio das informações inseridas para o email de destino.
+## 💻 Sobre o projeto
+- Esse projeto se trata de um sistema de microserviços, no qual apresenta duas apis: uma chamada user, recebe os dados do usuário e a mensagem do email inserido e a outra chamada email,
+na qual realiza o envio das informações inseridas para o email de destino.
+
+## ✨ Tecnologias Utilizadas
+- Java 21
+- SpringBoot 3.4.2
+- RabbitMQ
+- PostgreSQL
+
+## 🗒️ Roteiro
+- [ ] Criação das APIS
+- [ ] Criação do Ambiente no CloudAMQTP
+- [ ] Integração do Ambiente com a API
+- [ ] Execução da aplicação
+
+## 🚀 Como Executar
+- Clone o repositório
+- Abra em qualquer IDE Java
+- Execute o projeto Spring Boot
 
 ## Imagem da tabela de usuários
 ![Captura de tela em 2024-09-27 17-50-47](https://github.com/user-attachments/assets/9b843e07-61eb-485a-bc5b-a0f5b724f96f)
