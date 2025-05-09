@@ -1,4 +1,4 @@
-# Spring_microservicos_envio_email
+# API_envio_de_email_springboot_microsservicos
 
 ## 💻 Sobre o projeto
 - Esse projeto se trata de um sistema de microserviços, no qual apresenta duas apis: uma chamada user, recebe os dados do usuário e a mensagem do email inserido e a outra chamada email,
