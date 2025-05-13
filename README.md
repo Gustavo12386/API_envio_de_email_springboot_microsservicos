@@ -6,7 +6,7 @@ na qual realiza o envio das informações inseridas para o email de destino.
 
 ## ✨ Tecnologias Utilizadas
 - Java 21
-- SpringBoot 3.4.2
+- SpringBoot 
 - Maven
 - RabbitMQ
 - PostgreSQL
